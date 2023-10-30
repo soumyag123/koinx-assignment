@@ -327,7 +327,7 @@ input::-webkit-inner-spin-button {
   align-items: center;
   align-self: stretch;
   border: 1px solid;
-  border-color: var(--primaryblue);
+  /* border-color: var(--primaryblue); */
   border-radius: 8px;
   display: flex;
   height: 56px;
@@ -386,7 +386,7 @@ input::-webkit-inner-spin-button {
   align-items: center;
   align-self: stretch;
   border: 1px solid;
-  border-color: var(--primaryblue);
+  /* border-color: var(--primaryblue); */
   border-radius: 8px;
   display: flex;
   gap: 42px;
@@ -403,7 +403,6 @@ input::-webkit-inner-spin-button {
 }
 
 .frame .trading-2 {
-  /*color: var(--primarydarkblue);*/
   font-family: "Inter-Medium", Helvetica;
   font-size: 18px;
   font-weight: 500;
