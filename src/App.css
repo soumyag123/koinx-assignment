@@ -327,7 +327,6 @@ input::-webkit-inner-spin-button {
   align-items: center;
   align-self: stretch;
   border: 1px solid;
-  /* border-color: var(--primaryblue); */
   border-radius: 8px;
   display: flex;
   height: 56px;
@@ -344,7 +343,6 @@ input::-webkit-inner-spin-button {
 }
 
 .frame .trading {
-  /*color: var(--gray-2);*/
   font-family: "Inter-Medium", Helvetica;
   font-size: 18px;
   font-weight: 500;
@@ -361,8 +359,6 @@ input::-webkit-inner-spin-button {
 }
 
 .frame .img {
-  
-
   height: 32px;
   margin-bottom: -12px;
   margin-top: -12px;
@@ -386,7 +382,6 @@ input::-webkit-inner-spin-button {
   align-items: center;
   align-self: stretch;
   border: 1px solid;
-  /* border-color: var(--primaryblue); */
   border-radius: 8px;
   display: flex;
   gap: 42px;
@@ -394,7 +389,7 @@ input::-webkit-inner-spin-button {
   padding: 24px 12px;
   position: relative;
   width: 100%;
-  margin-left: 14px;
+  margin-left: 1.5rem;
 }
 .component2-active{
   border: 2px solid;
