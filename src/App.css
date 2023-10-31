@@ -331,7 +331,7 @@ input::-webkit-inner-spin-button {
   display: flex;
   height: 56px;
   justify-content: space-between;
-  padding: 24px 12px;
+  padding: 24px 6px;
   position: relative;
   width: 100%;
  
@@ -386,10 +386,10 @@ input::-webkit-inner-spin-button {
   display: flex;
   gap: 42px;
   height: 56px;
-  padding: 24px 12px;
+  padding: 24px 6px;
   position: relative;
   width: 100%;
-  margin-left: 1.5rem;
+  margin-left: 1.2rem;
 }
 .component2-active{
   border: 2px solid;
